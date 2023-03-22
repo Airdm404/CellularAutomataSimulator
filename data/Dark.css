@@ -1,0 +1,12 @@
+#backgroundColor {
+    -fx-background-color: linear-gradient(#0b000e, #0f100f);
+}
+
+
+.welcome-button {
+    -fx-color: #6edddd;
+}
+
+.simulation-button {
+    -fx-color: #5d0e79;
+}
